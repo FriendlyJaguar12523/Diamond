@@ -1,0 +1,18 @@
+{
+   "platformAccountSubscribedPlayerId" : null,
+   "subscription" : {
+      "createdAt" : "2020-07-18T05:39:01.1262884Z",
+      "event" : null,
+      "expirationDate" : "6969-09-11T14:03:00.000Z",
+      "isAutoRenewing" : true,
+      "level" : 0,
+      "modifiedAt" : "6969-09-11T14:03:00.000Z",
+      "period" : 0,
+      "platformId" : "3771116389593989",
+      "platformPurchaseId" : null,
+      "platformType" : 1,
+      "recNetPlayerId" : 38247985,
+      "subscriptionId" : 13210,
+      "type" : 0
+   }
+}
